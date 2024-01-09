@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/danvi/OneDrive - purdue.edu/Desktop/purdue/gamedev2/firstperson/CreatingaFirstPersonAimTr 5.3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/danvi/OneDrive - purdue.edu/Desktop/purdue/gamedev2/firstperson/CreatingaFirstPersonAimTr 5.3/Content/Blueprints/Target/BP_Target.uasset",
+				"C:/Users/danvi/OneDrive - purdue.edu/Desktop/purdue/gamedev2/firstperson/CreatingaFirstPersonAimTr 5.3/Content/Blueprints/Target/E_TargetBehaviour.uasset",
+				"C:/Users/danvi/OneDrive - purdue.edu/Desktop/purdue/gamedev2/firstperson/CreatingaFirstPersonAimTr 5.3/Content/Assets/Maps/L_Aim_Training.umap"
+			]
+		}
+	]
+}
